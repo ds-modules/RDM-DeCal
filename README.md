@@ -3,7 +3,6 @@
 This repo contains the materials from Fall 2017 Research Data Management presentation given by Research IT and the Library. 
 
 * Data Integrity
-* Provenance
 * Data Cleaning
 * Archiving Standards
 * Metadata
@@ -13,9 +12,5 @@ This repo contains the materials from Fall 2017 Research Data Management present
 
 * Josh Quan, Data Services Librarian
 * Rick Jaffe, Data Management Consultant
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 
