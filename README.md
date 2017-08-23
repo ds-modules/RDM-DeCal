@@ -2,6 +2,12 @@
 
 This repo contains the materials from Fall 2017 Research Data Management presentation given by Research IT and the Library. 
 
+* Data Integrity
+* Provenance
+* Data Cleaning
+* Archiving Standards
+* Metadata
+
 
 ## Authors
 
