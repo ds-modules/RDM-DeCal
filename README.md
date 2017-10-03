@@ -1,16 +1,15 @@
 # Research Data Management (RDM) Module for Data Science DeCal
 
-This repo contains the materials from Fall 2017 Research Data Management presentation given by Research IT and the Library. 
+Materials from Fall 2017 Research Data Management presentation given by Research IT and the Library. 
 
-* Data Integrity
+* Evaluation
 * Data Cleaning
-* Archiving Standards
 * Metadata
 
 
 ## Authors
 
-* Josh Quan, Data Services Librarian
 * Rick Jaffe, Data Management Consultant
+* Josh Quan, Data Services Librarian
 
 
