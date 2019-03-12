@@ -6,10 +6,3 @@ Materials from Fall 2017 Research Data Management presentation given by Research
 * Data Cleaning
 * Metadata
 
-
-## Authors
-
-* Rick Jaffe, Data Management Consultant
-* Josh Quan, Data Services Librarian
-
-
